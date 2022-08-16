@@ -27,7 +27,7 @@ Graduação de Tecnólogo em Processamento de Dados e Pós-Graduação em Sistem
 ## Projetos:
 Projetos de aprendizado do Curso Data Science na Prática do Sigmoidal:
 
-* **Projeto #1 - Analisando os Dados do Airbnb:** 
+* **Projeto #1 - Analisando os Dados do Airbnb:** https://bit.ly/3A0kekd
 
 ---
 
